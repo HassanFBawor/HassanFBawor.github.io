@@ -1,21 +1,22 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+title: Hassan F Bawor
+url: "http://HassanFBawor.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  This is my website, i hope you enjoy your time here.
+  
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: hassan.bawor@aims.ac.rw
+author: Hassan F Bawor
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: My name is Hassan F Bawor, I am a Master candidate at the African institute for mathematical Sciences.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
   Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  GitHub: "https://github.com/HassanFbawor"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
